@@ -19,6 +19,8 @@ A powerful web-based tool to analyze Excel files directly in your browser — no
 - 100% client-side processing (no data leaves your device)
 
 ---
+![data1](data1.png)
+
 
 ### 📊 Interactive Dashboard
 - Instant KPIs:
@@ -34,6 +36,8 @@ A powerful web-based tool to analyze Excel files directly in your browser — no
   - Pie Chart
 
 ---
+![data2](data2.png)
+
 
 ### ⚡ Formula Analysis
 - Extracts all formulas from the sheet
@@ -52,6 +56,8 @@ A powerful web-based tool to analyze Excel files directly in your browser — no
   - Sum
 
 ---
+![data3](data3.png)
+
 
 ### 💰 Advanced Accounting Analysis
 - Financial breakdown:
