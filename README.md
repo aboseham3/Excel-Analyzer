@@ -5,7 +5,7 @@ A powerful web-based tool to analyze Excel files directly in your browser — no
 ---
 ## 📸 Excel Analyzer 
 
-![App Excel Analyzer](images/Excel Analyzer.png)
+![Excel Analyzer](Excel%20Analyzer.png)
 
 ## 🚀 Features
 
