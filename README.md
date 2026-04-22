@@ -3,6 +3,9 @@
 A powerful web-based tool to analyze Excel files directly in your browser — no data upload, no backend, full privacy.
 
 ---
+## 📸 Excel Analyzer 
+
+![App Excel Analyzer](images/Excel Analyzer.png)
 
 ## 🚀 Features
 
